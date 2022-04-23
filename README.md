@@ -9,6 +9,8 @@ Here are 3 private vectors that store the result after each operation of finding
 	
 **glm::vec3 m_rotateInfo;**
 
+In **Void InitPerspectiveProj** written the transformation matrix 
+
 <h1 align="center"> CAMERA SPACE </h1>
 
 >Description of shaders. We use shaders to create a pyramid (3d shape).
@@ -30,3 +32,6 @@ For shader use: **#version 330** that means we're use GLSL ver. 3.3.
 1)Set colors:
 
 **FragColor = vec4(1.0, 0.0, 0.0, 1.0);**
+
+
+
