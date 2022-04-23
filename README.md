@@ -1,5 +1,5 @@
 # triangle-and-pyramid
-<h1 align="center"> CAMERA SPACE <\h1>
+<h1 align="center"> CAMERA SPACE </h1>
 
 Use shaders to create a pyramid (3d shape).
 
