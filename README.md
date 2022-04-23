@@ -9,9 +9,9 @@ Here are 3 private vectors that store the result after each operation of finding
 	
 **glm::vec3 m_rotateInfo;**
 
-In **Void InitPerspectiveProj** write the transformation matrix 
+In ***void* InitPerspectiveProj** write the transformation matrix 
 
-In **InitCameraTransform** generates camera transforms
+In ***void* InitCameraTransform** generates camera transforms
 
 <h1 align="center"> CAMERA SPACE </h1>
 
