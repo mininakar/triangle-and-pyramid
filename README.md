@@ -1,4 +1,6 @@
 # triangle-and-pyramid
+<h2>The Pipeline class</h2> is a pipeline class that abstracts the details of getting all the transformations needed for a single object.
+
 <h1 align="center"> CAMERA SPACE </h1>
 
 >Description of shaders. We use shaders to create a pyramid (3d shape).
