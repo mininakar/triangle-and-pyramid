@@ -36,4 +36,13 @@ For shader use: **#version 330** that means we're use GLSL ver. 3.3.
 **FragColor = vec4(1.0, 0.0, 0.0, 1.0);**
 
 
+In renderSceneCB we prescribe the position of the camera: 
+
+**glm::vec3 CameraPos(0.0f, 0.0f, -3.0f);**
+
+**glm::vec3 CameraTarget(0.0f, 0.0f, 2.0f);**
+
+**glm::vec3 CameraUp(0.0f, 1.0f, 0.0f);**
+
+**p.SetCamera(CameraPos, CameraTarget, CameraUp);**
 
